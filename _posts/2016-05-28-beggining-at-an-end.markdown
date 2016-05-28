@@ -15,14 +15,13 @@ For all you non aero people out there, myself included, there are two key aspect
 
 The tilt-rotor is the ability for the motors on the aircraft to be able to rotate between a vertical and horizontal level, allowing for the aircraft to be able to take off vertically and transition into standard horizontal flight. This gives the drone the ability to do VTOL (Vertical Take-Off and Landing) which brings the obvious advantage of being able to fly within a minute landing zone.
 
-this is simply an aircraft which can fly up vertically, have the rotors tilt forward and then continue on in forward flight. Obviously this is reversed for landing. 
 The canard design is to simply have two wings, a small one at the front and a large one at the back at different heights on the body, which often leads to an increase in the maneuverability of the aircraft.
 
 Well after 3 gruelling months and a lot of sleep lost between 8 student we produced this, The ARC Phoenix:
 
 ![Designed Canard Quad-Tilt Rotor]({{site.url}}/_assets/Arc_Phoneix.png)
 
-**PHEW!**
+#### ***PHEW!***
 
 A lot of though, sweat and, at some time I'm sure, blood went into producing this model. This couldn't of been possible without the contribution of each and every team member I worked with, who all performed exceptionally!
 
