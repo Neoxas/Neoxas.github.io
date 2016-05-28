@@ -11,7 +11,7 @@ email:
 description: > # this means to ignore newlines until "baseurl:"
   A site describing the life of an idiot commited to karate and engineering.
   My name is Alex and am an studying Intergrated Mechanical and Electrical engineering
-  at the University of Bath. As could be guess my biggest passion in life is
+  at the University of Bath. As could be guess my biggest passions in life are
   karate and engineering, followed closely by video/tabletop games.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://neoxas.github.io" # the base hostname & protocol for your site
