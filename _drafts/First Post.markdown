@@ -4,7 +4,7 @@ title:  "To begin at an end."
 date:   2016-05-25 13:50:06 -0400
 categories: Engineering
 ---
-Well that's it. After around 5 months of slaving over a hot design board, my group has managed to create a drone *Cue Trumpet Fanfair here*. This is not just any drone. Oh no, this is a super sexy canard quad-tilt rotor.
+Well that's it. After around 5 months of slaving over a hot design board, my group has managed to create a drone *Cue Trumpet Fan-fair here*. This is not just any drone. Oh no, this is a super sexy canard quad-tilt rotor.
 
 ###WOW
 
