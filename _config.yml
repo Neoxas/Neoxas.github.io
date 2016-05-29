@@ -10,9 +10,13 @@ title: Still Kicking ~ Still Tinkering
 email: 
 description: > # this means to ignore newlines until "baseurl:"
   A site describing the life of an idiot commited to karate and engineering.
-  My name is Alex and am an studying Intergrated Mechanical and Electrical Engineering (IMEE)
+  My name is Alex and I am studying Intergrated Mechanical and Electrical Engineering (IMEE)
   at the University of Bath. As could be guessed, my biggest passions in life are
   karate and engineering, followed closely by video/tabletop games.
+
+  I also contribute to a neat little site on karate kata's run by one of my fellow Bath karate-ka, Go check it out @
+  
+  www.bassai-dai.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://neoxas.github.io" # the base hostname & protocol for your site
 twitter_username:
